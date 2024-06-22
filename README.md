@@ -1,7 +1,7 @@
 Hi there! 👋 I'm John Doe
 A passionate software developer with a knack for clean code and problem-solving.
 
--Skills
+-Skills:
    C,
    C++,
    JavaScript (ES6+),
