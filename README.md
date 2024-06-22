@@ -1,11 +1,11 @@
 Hi there! 👋 I'm John Doe
 A passionate software developer with a knack for clean code and problem-solving.
 
-Skills
-- C
-- C++
-- JavaScript (ES6+)
-- React
+-Skills
+   C
+   C++
+   JavaScript (ES6+)
+   React
 
 
 - 🌱 I’m currently pursuing B-Tech from CUSAT
