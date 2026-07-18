@@ -1,15 +1,1 @@
-Hi there! 👋 I'm unais
-A passionate software developer with a knack for clean code and problem-solving.
-
--Skills:
-   C,
-   C++,
-   Python,
-   JS,
-   React
-
-
-- final year engineering student in CUSAT
-
-
-
+B.Tech Information Technology student and Full-Stack Developer aspiring to become a Software Development Engineer. Experienced in React, JavaScript, Node.js, Express.js, SQL, MongoDB, Supabase, REST APIs, and Git. Passionate about building practical applications, solving problems, and continuously improving my skills in software engineering and scalable systems.
